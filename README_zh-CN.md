@@ -205,3 +205,7 @@ flutter run -d linux
 ## 联系
 
 如需问题反馈或功能请求，请提交 Issue。
+
+## 星标历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sihuangtech/decibel-meter&type=Date)](https://www.star-history.com/#sihuangtech/decibel-meter&Date)

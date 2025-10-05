@@ -186,3 +186,7 @@ PRs are welcome. Please follow Flutter style and project conventions.
 ## Contact
 
 Create an issue for bugs/requests.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sihuangtech/decibel-meter&type=Date)](https://www.star-history.com/#sihuangtech/decibel-meter&Date)
